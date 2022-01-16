@@ -1,5 +1,3 @@
-export default function() {
-    return <div>
-        <p>Hello Duds</p>
-    </div>
+export default function IndexPage() {
+  return <p>Hello Duds</p>;
 }
